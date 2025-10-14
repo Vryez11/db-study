@@ -11,10 +11,11 @@ DB 학습정리 레포
 7. [SQL-DDL](https://www.notion.so/SQL-DDL-2858e70ba5ff80a1899febdb6a702d2d?source=copy_link)
 8. [SQL-DML](https://www.notion.so/SQL-DML-28b8e70ba5ff801cb843c65cc3d93586?source=copy_link)
 9. [SQL-절](https://www.notion.so/SQL-28b8e70ba5ff80d69c84c8c1655c8758?source=copy_link)
-10. [NULL](https://www.notion.so/NULL-28c8e70ba5ff8012886dc2b12c7e1daa?source=copy_link)
-11. [데이터 타입](https://www.notion.so/2808e70ba5ff80dea022cb8f75619a51?source=copy_link)
-12. [제약 조건](https://www.notion.so/2808e70ba5ff8074abbfcafd8c883a5d?source=copy_link)
-13. [ERD](https://www.notion.so/ERD-28b8e70ba5ff8093976eeb1476216d1d?source=copy_link)
+10. [SQL-데이터 가공](https://www.notion.so/SQL-28c8e70ba5ff8096890cfecb294269fb?source=copy_link)
+11. [NULL](https://www.notion.so/NULL-28c8e70ba5ff8012886dc2b12c7e1daa?source=copy_link)
+12. [데이터 타입](https://www.notion.so/2808e70ba5ff80dea022cb8f75619a51?source=copy_link)
+13. [제약 조건](https://www.notion.so/2808e70ba5ff8074abbfcafd8c883a5d?source=copy_link)
+14. [ERD](https://www.notion.so/ERD-28b8e70ba5ff8093976eeb1476216d1d?source=copy_link)
 
 ## 📄 참고
 **김영한의 실전 데이터베이스 강의와 수업자료를 참고했습니다.**
