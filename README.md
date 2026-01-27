@@ -16,6 +16,9 @@ DB 학습정리 레포
 12. [데이터 타입](https://www.notion.so/2808e70ba5ff80dea022cb8f75619a51?source=copy_link)
 13. [제약 조건](https://www.notion.so/2808e70ba5ff8074abbfcafd8c883a5d?source=copy_link)
 14. [ERD](https://www.notion.so/ERD-28b8e70ba5ff8093976eeb1476216d1d?source=copy_link)
+15. [내부 조인](https://www.notion.so/2f58e70ba5ff803ca5b7fdcc6fb4ebf6?source=copy_link)
+16. [외부 조인](https://www.notion.so/2f58e70ba5ff80b7b7f6d99d676131a4?source=copy_link)
+17. [기타 조인](https://www.notion.so/2f58e70ba5ff8016bd44cff0dd8931e9?source=copy_link)
 
 ## 📄 참고
 **김영한의 실전 데이터베이스 강의와 수업자료를 참고했습니다.**
