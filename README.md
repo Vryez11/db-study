@@ -20,6 +20,7 @@ DB 학습정리 레포
 16. [외부 조인](https://www.notion.so/2f58e70ba5ff80b7b7f6d99d676131a4?source=copy_link)
 17. [기타 조인](https://www.notion.so/2f58e70ba5ff8016bd44cff0dd8931e9?source=copy_link)
 18. [서브 쿼리](https://www.notion.so/2f68e70ba5ff80668368f92162384843?source=copy_link)
+19. [UNION]()
 
 ## 📄 참고
 **김영한의 실전 데이터베이스 강의와 수업자료를 참고했습니다.**
