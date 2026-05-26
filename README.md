@@ -25,6 +25,9 @@ DB 학습정리 레포
 20. [뷰](https://www.notion.so/View-36b8e70ba5ff818f81a3dfe3595d6134?source=copy_link)
 21. [인덱스 - 원리와 기본 동작](https://www.notion.so/36b8e70ba5ff81ca8ab4e8712df4d89f?source=copy_link)
 22. [인덱스 - 설계와 최적화](https://www.notion.so/36b8e70ba5ff8106a707e271c7f291bf?source=copy_link)
+23. [데이터 무결성](https://www.notion.so/36c8e70ba5ff816b9048cfa7af747bdb?source=copy_link)
+24. [트랜잭션](https://www.notion.so/36c8e70ba5ff818ab398c4531d0f27e6?source=copy_link)
+25. [저장 프로시저, 함수, 트리거](https://www.notion.so/36c8e70ba5ff8181acc8d0a89bbc46f8?source=copy_link)
 
 ## 📄 참고
 **김영한의 실전 데이터베이스 강의와 수업자료를 참고했습니다.**
