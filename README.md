@@ -29,6 +29,7 @@ DB 학습정리 레포
 24. [트랜잭션](https://www.notion.so/36c8e70ba5ff818ab398c4531d0f27e6?source=copy_link)
 25. [저장 프로시저, 함수, 트리거](https://www.notion.so/36c8e70ba5ff8181acc8d0a89bbc46f8?source=copy_link)
 26. [설계의 중요성](https://www.notion.so/3758e70ba5ff81efa980d5584fdd4ec1?source=copy_link)
+27. [개념적 모델링](https://app.notion.com/p/39a8e70ba5ff814bb143f697d8d58291?source=copy_link#6e47a023a6bb4a158627fd961d79e8a1)
 
 ## 📄 참고
 **김영한의 실전 데이터베이스 강의와 수업자료를 참고했습니다.**
